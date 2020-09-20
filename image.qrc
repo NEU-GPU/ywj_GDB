@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/text.png</file>
+        <file>image/save.png</file>
+        <file>image/load.png</file>
+        <file>image/new.png</file>
+        <file>image/remove.png</file>
+        <file>image/dec.png</file>
+        <file>image/node.png</file>
+        <file>image/relation.png</file>
+        <file>image/graph.png</file>
+    </qresource>
+</RCC>
